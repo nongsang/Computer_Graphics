@@ -13,6 +13,9 @@
 5. HLSL 프로그래밍
 6. 실용 Direct3D 11 렌더링 & 계산
 7. DirectX 12를 이용한 3D 게임 프로그래밍 입문
+8. OpenGL로 배우는 3차원 컴퓨터 그래픽스
+9. OpenGL Super Bible - 개정 6판
+10. 처음 만나는 Vulkan
 
 # 주요 내용
 1. DirectX
